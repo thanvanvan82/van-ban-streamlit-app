@@ -15,9 +15,9 @@ from docx import Document
 DOCUMENT_TYPES = {
     "Văn bản hành chính TLU": {
         "Mẫu 1: Nghị quyết (cá biệt)": {"list": "tlu/list_1.docx", "template": "tlu/mau_1_nghi_quyet.docx"},
-        "Mẫu 2: Quyết định (Hội đồng, Ban)": {"list": "tlu/list_2.docx", "template": "tlu/mau_2_quyet_dinh_truc_tiep_hd_ban.docx"},
-        "Mẫu 3: Quyết định (trực tiếp)": {"list": "tlu/list_3.docx", "template": "tlu/mau_3_quyet_dinh_truc_tiep.docx"},
-        "Mẫu 4: Quyết định (gián tiếp)": {"list": "tlu/list_4.docx", "template": "tlu/mau_4_quyet_dinh_ban_hanh.docx"},
+        "Mẫu 2: Quyết định (Hội đồng, Ban)": {"list": "tlu/list_2.docx", "template": "tlu/mau_2_qd_truc_tiep_hd_ban.docx"},
+        "Mẫu 3: Quyết định (trực tiếp)": {"list": "tlu/list_3.docx", "template": "tlu/mau_3_qd_truc_tiep.docx"},
+        "Mẫu 4: Quyết định (gián tiếp)": {"list": "tlu/list_4.docx", "template": "tlu/mau_4_qd_ban_hanh.docx"},
         "Mẫu 4a: Quy chế, quy định": {"list": "tlu/list_4a.docx", "template": "tlu/mau_4a_quy_che.docx"},
         "Mẫu 4b: Văn bản khác (kèm theo)": {"list": "tlu/list_4b.docx", "template": "tlu/mau_4b_vb_khac.docx"},
         "Mẫu 5a: Công văn (gửi 1 đơn vị)": {"list": "tlu/list_5a.docx", "template": "tlu/mau_5a_cong_van_hanh_chinh_mot.docx"},
