@@ -1,0 +1,16 @@
+# .gitignore
+
+# Môi trường ảo
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# File biến môi trường
+.env
+
+# Các file hệ điều hành
+.DS_Store
