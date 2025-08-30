@@ -30,28 +30,28 @@ DOCUMENT_TYPES = {
         "Mẫu 10: Phụ lục": {"list": "tlu/list_10.docx", "template": "tlu/mau_10_phu_luc.docx"},
     },
     "Văn bản Đào tạo": {
-        "ĐT-01: Đề cương chi tiết học phần": {"list": "dao_tao/dt_de_cuong.docx", "template": "dao_tao/dt_mau_de_cuong.docx"},
-        "ĐT-02: Lịch trình giảng dạy": {"list": "dao_tao/dt_lich_trinh.docx", "template": "dao_tao/dt_mau_lich_trinh.docx"},
-        "ĐT-03: Biên bản họp bộ môn": {"list": "dao_tao/dt_bien_ban_hop.docx", "template": "dao_tao/dt_mau_bien_ban_hop.docx"},
+        "ĐT-01: Đề cương chi tiết học phần": {"list": "dao_tao/list_de_cuong.docx", "template": "dao_tao/mau_de_cuong.docx"},
+        "ĐT-02: Lịch trình giảng dạy": {"list": "dao_tao/list_lich_trinh.docx", "template": "dao_tao/mau_lich_trinh.docx"},
+        "ĐT-03: Biên bản họp bộ môn": {"list": "dao_tao/list_bien_ban_hop.docx", "template": "dao_tao/mau_bien_ban_hop.docx"},
     },
     "Văn bản Thi đua": {
-        "TĐ-01: Đăng ký thi đua": {"list": "thi_dua/td_dang_ky.docx", "template": "thi_dua/td_mau_dang_ky.docx"},
-        "TĐ-02: Phiếu đánh giá viên chức": {"list": "thi_dua/td_phieu_danh_gia.docx", "template": "thi_dua/td_mau_phieu_danh_gia.docx"},
-        "TĐ-03: Thành tích thay thế sáng kiến": {"list": "thi_dua/td_sang_kien.docx", "template": "thi_dua/td_mau_sang_kien.docx"},
+        "TĐ-01: Đăng ký thi đua": {"list": "thi_dua/list_dang_ky.docx", "template": "thi_dua/mau_dang_ky.docx"},
+        "TĐ-02: Phiếu đánh giá viên chức": {"list": "thi_dua/list_phieu_danh_gia.docx", "template": "thi_dua/mau_phieu_danh_gia.docx"},
+        "TĐ-03: Thành tích thay thế sáng kiến": {"list": "thi_dua/list_sang_kien.docx", "template": "thi_dua/mau_sang_kien.docx"},
     },
     "Văn bản Đảng": {
-        "Đ-01: Bản kiểm điểm cá nhân": {"list": "dang/dang_kiem_diem.docx", "template": "dang/dang_mau_kiem_diem.docx"},
+        "Đ-01: Bản kiểm điểm cá nhân": {"list": "dang/list_kiem_diem.docx", "template": "dang/mau_kiem_diem.docx"},
     },
     "Văn bản Hội đồng": {
-        "HĐ-01: Đồ án tốt nghiệp": {"list": "hoi_dong/hd_do_an_tn.docx", "template": "hoi_dong/hd_mau_do_an_tn.docx"},
-        "HĐ-02: Đề cương đề án NCS": {"list": "hoi_dong/hd_de_cuong_ncs.docx", "template": "hoi_dong/hd_mau_de_cuong_ncs.docx"},
-        "HĐ-03: Bản thảo đề án NCS": {"list": "hoi_dong/hd_ban_thao_ncs.docx", "template": "hoi_dong/hd_mau_ban_thao_ncs.docx"},
-        "HĐ-04: Biên bản bảo vệ đề án NCS": {"list": "hoi_dong/hd_bao_ve_ncs.docx", "template": "hoi_dong/hd_mau_bao_ve_ncs.docx"},
-        "HĐ-05: Biên bản xét tuyển NCS": {"list": "hoi_dong/hd_xet_tuyen_ncs.docx", "template": "hoi_dong/hd_mau_xet_tuyen_ncs.docx"},
-        "HĐ-06: Tiểu ban đánh giá chuyên đề": {"list": "hoi_dong/hd_danh_gia_cd.docx", "template": "hoi_dong/hd_mau_danh_gia_cd.docx"},
+        "HĐ-01: Đồ án tốt nghiệp": {"list": "hoi_dong/list_do_an_tn.docx", "template": "hoi_dong/mau_do_an_tn.docx"},
+        "HĐ-02: Đề cương đề án NCS": {"list": "hoi_dong/list_de_cuong_ncs.docx", "template": "hoi_dong/mau_de_cuong_ncs.docx"},
+        "HĐ-03: Bản thảo đề án NCS": {"list": "hoi_dong/list_ban_thao_ncs.docx", "template": "hoi_dong/mau_ban_thao_ncs.docx"},
+        "HĐ-04: Biên bản bảo vệ đề án NCS": {"list": "hoi_dong/list_bao_ve_ncs.docx", "template": "hoi_dong/mau_bao_ve_ncs.docx"},
+        "HĐ-05: Biên bản xét tuyển NCS": {"list": "hoi_dong/list_xet_tuyen_ncs.docx", "template": "hoi_dong/mau_xet_tuyen_ncs.docx"},
+        "HĐ-06: Tiểu ban đánh giá chuyên đề": {"list": "hoi_dong/list_danh_gia_cd.docx", "template": "hoi_dong/mau_danh_gia_cd.docx"},
     },
     "Văn bản Khác": {
-        "VK-01: Báo cáo sinh hoạt học thuật": {"list": "khac/vk_shht.docx", "template": "khac/vk_mau_shht.docx"},
+        "VK-01: Báo cáo sinh hoạt học thuật": {"list": "khac/list_shht.docx", "template": "khac/mau_shht.docx"},
     }
 }
 
